@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthicksivakumarp
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning python for hardware test automation
-- 💞️ I’m looking to collaborate on python coding for embedded hardware testing using python
+- 🌱 I’m currently learning python for electronics hardware test automation
+- 💞️ I’m looking to collaborate on python coding for automated electronics hardware testing using python
 - 📫 How to reach me karthick.sach@gmail.com
 
 <!---
